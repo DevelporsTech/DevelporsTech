@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevelporsTech
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning  Deeloping
+- 🌱 I’m currently learning  Developing
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me From Developers tech on Github
 - 😄 Pronouns: Fun
